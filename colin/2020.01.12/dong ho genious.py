@@ -1,0 +1,11 @@
+# dong ho genious.py
+adjective = input("please enter adjective")
+noun = input("please enter noun")
+verb = input("please enter verb")
+verb = input("please enter verb")
+verb = input("please enter verb")
+verb = input("please enter verb")
+verb = input("please enter verb")
+verb = input("please enter verb")
+verb = input("please enter verb")
+print(adjective, noun, verb, verb, verb, verb, verb, verb, verb )
