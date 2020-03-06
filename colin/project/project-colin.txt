@@ -1,0 +1,20 @@
+[문제 1: 최대 공약수와 최소 공배수]
+
+1. 프로그램을 실행하면 다음과 같이 사용자에게 숫자를 입력받는다.
+    "Enter two numbers to get the greatest common divisor and the least common multiple."
+    "first number (2-100): "
+    "second number (2-100): "
+
+2. 2부터 100까지의 두 수를 입력하면 최대 공약수와 최소 공배수를 출력한다.
+   예를 들어 36과 48를 입력하면 아래와 같이 출력한다.
+    "the greatest common divisor is 12"
+    "the least common multiple is 144"
+
+3. 출력을 마치면 1번으로 다시 돌아가서 사용자의 입력을 받는다.
+
+4. 첫번째 숫자에 2보다 작은 수를 입력하면 프로그램을 종료한다.
+
+5. 둘 중 하나라도 100보다 크거나 2보다 작은 수를 입력하면 다음과 같은 오류 메세지를 출력하고 다시 입력받는다.
+    "Wrong numbers <첫번째 숫자>, <두번째 숫자>. Try again."
+
+6. 참고할 방법: https://m.blog.naver.com/riverstill/221282466445
